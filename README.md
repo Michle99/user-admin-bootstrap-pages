@@ -27,3 +27,6 @@ Simple admin and user pages built using Bootstrap. Per Scholas Bootstrap assignm
 
 # Getting Started
 Clone the repo to check out the pages.
+
+# Resources
+[Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
