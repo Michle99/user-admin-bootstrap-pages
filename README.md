@@ -1,5 +1,5 @@
 # Admin and User Bootstrap Pages
-Simple admin and user pages built using Bootstrap.
+Simple admin and user pages built using Bootstrap. Per Scholas Bootstrap assignment.
 
 # Contents
 ####  User
@@ -20,3 +20,10 @@ Simple admin and user pages built using Bootstrap.
 
 # User Wireframe
 <img width="850" height="550"  src="images/User Page.png" alt="User Wireframe" >
+
+# User Page
+
+<img src="images/user_profile.png" alt="User Page" >
+
+# Getting Started
+Clone the repo to check out the pages.
