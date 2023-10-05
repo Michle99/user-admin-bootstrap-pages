@@ -12,7 +12,7 @@ Simple admin and user pages built using Bootstrap.
 
 
 # Admin Wireframe
-<img src="images/Admin Page.png" alt="Admin Wireframe" />
+<img width="650" height="550" src="images/Admin Page.png" alt="Admin Wireframe" />
 
 # Admin Page
 
